@@ -1,0 +1,139 @@
+文件夹 PATH 列表
+卷序列号为 4FE15FAE 3CD2:D088
+C:.
+│  javaapk.com文件列表生成工具.bat
+│  目录列表.txt
+│  
+└─MyPlane
+    │  .classpath
+    │  .project
+    │  AndroidManifest.xml
+    │  ic_launcher-web.png
+    │  proguard-project.txt
+    │  project.properties
+    │  
+    ├─.settings
+    │      org.eclipse.jdt.core.prefs
+    │      
+    ├─assets
+    │              
+    ├─gen
+    │  └─com
+    │      └─alonso
+    │          └─myplane
+    │                  BuildConfig.java
+    │                  R.java
+    │                  
+    ├─libs
+    │      android-support-v4.jar
+    │      
+    ├─res
+    │  ├─drawable-hdpi
+    │  │      ic_launcher.png
+    │  │      
+    │  ├─drawable-ldpi
+    │  │      ic_launcher.png
+    │  │      
+    │  ├─drawable-mdpi
+    │  │      bg_01.jpg
+    │  │      bg_02.jpg
+    │  │      big.png
+    │  │      bk.png
+    │  │      bossbullet.png
+    │  │      bossplane.png
+    │  │      bossplanebomb.png
+    │  │      bullet.png
+    │  │      bullet2.png
+    │  │      bullet_goods.png
+    │  │      button.png
+    │  │      button2.png
+    │  │      fly.png
+    │  │      ic_launcher.png
+    │  │      middle.png
+    │  │      missile_bt.png
+    │  │      missile_goods.png
+    │  │      myplane.png
+    │  │      myplaneexplosion.png
+    │  │      planeicon.png
+    │  │      play.png
+    │  │      small.png
+    │  │      text.png
+    │  │      
+    │  ├─drawable-xhdpi
+    │  │      ic_launcher.png
+    │  │      
+    │  ├─drawable-xxhdpi
+    │  │      ic_launcher.png
+    │  │      
+    │  ├─layout
+    │  │      activity_main.xml
+    │  │      
+    │  ├─menu
+    │  │      main.xml
+    │  │      
+    │  ├─raw
+    │  │      bigexplosion.wav
+    │  │      button.wav
+    │  │      explosion.mp3
+    │  │      explosion2.wav
+    │  │      explosion3.wav
+    │  │      get_goods.wav
+    │  │      shoot.mp3
+    │  │      
+    │  ├─values
+    │  │      dimens.xml
+    │  │      strings.xml
+    │  │      styles.xml
+    │  │      
+    │  ├─values-sw600dp
+    │  │      dimens.xml
+    │  │      
+    │  ├─values-sw720dp-land
+    │  │      dimens.xml
+    │  │      
+    │  ├─values-v11
+    │  │      styles.xml
+    │  │      
+    │  └─values-v14
+    │          styles.xml
+    │          
+    └─src
+        └─com
+            └─alonso
+                ├─constant
+                │      ConstantUtil.java
+                │      
+                ├─factory
+                │      GameObjectFactory.java
+                │      
+                ├─interfaces
+                │      IMyPlane.java
+                │      
+                ├─myplane
+                │      MainActivity.java
+                │      
+                ├─object
+                │      BigPlane.java
+                │      BossBullet.java
+                │      BossPlane.java
+                │      Bullet.java
+                │      BulletGoods.java
+                │      EnemyPlane.java
+                │      GameGoods.java
+                │      GameObject.java
+                │      MiddlePlane.java
+                │      MissileGoods.java
+                │      MyBullet.java
+                │      MyBullet2.java
+                │      MyPlane.java
+                │      SmallPlane.java
+                │      
+                ├─sounds
+                │      GameSoundPool.java
+                │      
+                └─view
+                        BaseView.java
+                        EndView.java
+                        MainView.java
+                        ReadyView.java
+                        
